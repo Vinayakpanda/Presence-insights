@@ -1,4 +1,5 @@
 HR Presence Dashboard — Power BI Report
+
 📋 Overview
 HR_presence.pbix is a Power BI report designed to track and analyze employee attendance and work patterns across an organization. It provides HR teams and managers with a centralized view of presence rates, work-from-home (WFH) trends, and sick leave (SL) metrics — broken down by employee, date, and day of the week.
 
